@@ -1,3 +1,7 @@
 # CourseProject
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+This repo contains the work for Team Foo's CS410 final project.
+
+## Proposal
+
+Contained within the file CS410Proposal.pdf is the team Foo's project proposal.
